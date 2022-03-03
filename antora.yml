@@ -1,0 +1,9 @@
+name: component
+title: Component Tempate
+version: 2.0
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
+asciidoc:
+  attributes:
+    sectnums: 5

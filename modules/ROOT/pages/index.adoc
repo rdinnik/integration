@@ -1,0 +1,6 @@
+= Component Template
+// Settings
+:idprefix:
+:idseparator: -
+:experimental:
+:example-caption!:
